@@ -40,20 +40,20 @@ I build geospatial solutions, from interactive web maps and remote sensing pipel
 
 ### 💼 Experience
 
-- **Geomatics Intern** — Kenya Rural Roads Authority (KeRRA), Sep–Dec 2025
-- **Geospatial Analyst Intern** — Geodev Kenya Limited, Jan–May 2024
-- **Geomatics Research Assistant** — Dedan Kimathi University of Technology, Jan–March 2023
+- **Geomatics Intern** - Kenya Rural Roads Authority (KeRRA), Sep–Dec 2025
+- **Geospatial Analyst Intern** - Geodev Kenya Limited, Jan–May 2024
+- **Geomatics Research Assistant** - Dedan Kimathi University of Technology, Jan–March 2023
 
 ### 📚 Training & Externships
 
-- **RCMRD** — *Transforming Maps into Stories and Data into Decisions*, 2026 — completed the GeoHex Conservation Challenge, submitting the "Hexagons for Hornbills" StoryMap
+- **RCMRD** - *Transforming Maps into Stories and Data into Decisions*, 2026 — completed the GeoHex Conservation Challenge, submitting the "Hexagons for Hornbills" StoryMap
 - **UN Mappers Kenya Youth Climate Mapping Externship**, June–August 2026 — humanitarian OSM mapping with JOSM (Ruai Ward flood-resilience mapathon, HOT Tasking Manager) and a climate-impact analysis project on aridity and food security in Tharaka-Nithi County
 
 ---
 
 ### 🎓 Education
 
-**BSc Geomatics Engineering & GIS** — Dedan Kimathi University of Technology (2021–2025)
+**BSc Geomatics Engineering & GIS** - Dedan Kimathi University of Technology (2021–2025)
 
 ---
 
