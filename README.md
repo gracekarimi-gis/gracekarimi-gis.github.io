@@ -46,8 +46,8 @@ I build geospatial solutions, from interactive web maps and remote sensing pipel
 
 ### 📚 Training & Externships
 
-- **RCMRD** - *Transforming Maps into Stories and Data into Decisions*, 2026 — completed the GeoHex Conservation Challenge, submitting the "Hexagons for Hornbills" StoryMap
-- **UN Mappers Kenya Youth Climate Mapping Externship**, June–August 2026 — humanitarian OSM mapping with JOSM (Ruai Ward flood-resilience mapathon, HOT Tasking Manager) and a climate-impact analysis project on aridity and food security in Tharaka-Nithi County
+- **RCMRD** - *Transforming Maps into Stories and Data into Decisions*, 2026-completed the GeoHex Conservation Challenge, submitting the "Hexagons for Hornbills" StoryMap
+- **UN Mappers Kenya Youth Climate Mapping Externship**, June–August 2026-humanitarian OSM mapping with JOSM (Ruai Ward flood-resilience mapathon, HOT Tasking Manager) and a climate-impact analysis project on aridity and food security in Tharaka-Nithi County
 
 ---
 
